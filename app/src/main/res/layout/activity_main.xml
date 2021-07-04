@@ -8,7 +8,10 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_weight="70"/>
-
+    <TextView
+        android:id="@id/text"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp" />
     <Button
         android:id="@+id/btnsignin"
         android:layout_width="fill_parent"
